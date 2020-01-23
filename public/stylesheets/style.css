@@ -6,3 +6,6 @@ body {
 a {
   color: #00B7FF;
 }
+ .navbar-bgg{
+   background:linear-gradient(to bottom right, blue, rgb(57, 57, 197)) !important;
+ }
